@@ -1,0 +1,11 @@
+host: 0.0.0.0
+user: 'user2'
+password: '1234'
+file: p7zip-full
+type: zip
+folder_user: /home/user2/
+folder_in: /home/user2/tst
+folder_out: /home/user2/out
+folder_ext: /home/user2/folder1
+folder_ext2: /home/user2/folder2
+valid: Everything is Ok
